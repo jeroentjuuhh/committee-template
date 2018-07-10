@@ -17,6 +17,7 @@ Summarized:
 - Very generic template on which the commmittees can build. 
 - Easy and simple to use.
 - Lot of flexability. 
+- No special dependencies.
 
 ### Provide
 So what should we provide?
@@ -24,4 +25,4 @@ So what should we provide?
 - Colors
 - Navigation bar
 - Footer
-- Different html files that g
+- Different html files that all load a different page
