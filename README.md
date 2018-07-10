@@ -1,1 +1,17 @@
 # committee-template
+
+## Proposal by Tim
+This is a solution adapted from the proposal by [Tim van der Lippe](https://github.com/TimvdLippe).  
+He proposed a solution where we have a core development team that implementes custom elements that can be used by committees. The full analysis and vision can be found [here](https://github.com/WISVCH/committee-website-vision/blob/master/README.md)  
+
+## Changed
+One problem that we found with the solution that Tim suggested was that most committee members are not able to use those somewhat complex modules.  
+We want to have a simple `index.html`, `style.css` and `script.js` solution which is generic for every committee.
+
+## Problem
+
+
+## Goal
+- Build on 
+- template for the committees
+
