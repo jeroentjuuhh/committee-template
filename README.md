@@ -27,3 +27,7 @@ So what should we provide?
 - Footer
 - Different html files that all load a different page
 - General style of displaying the committee.
+
+### Options
+We could setup an repo for every committee inside the [WISVCH organisation](https://github.com/WISVCH)
+Then all sites can be edited by members of CH that may have more knowledge then the committee member from the committee itself. 
