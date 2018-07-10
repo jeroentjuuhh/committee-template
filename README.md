@@ -1,4 +1,4 @@
-# committee-template
+# Committee-template
 
 ## Proposal by Tim
 This is a solution adapted from the proposal by [Tim van der Lippe](https://github.com/TimvdLippe).  
@@ -26,3 +26,4 @@ So what should we provide?
 - Navigation bar
 - Footer
 - Different html files that all load a different page
+- General style of displaying the committee.
