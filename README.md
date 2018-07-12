@@ -15,7 +15,7 @@ It needs to be generic for every committee.
 ## Goal
 Summarized: 
 - Very generic template on which the commmittees can build. 
-- Easy and simple to use.
+- Easy and simple to use. 
 - Lot of flexability. 
 - No special dependencies.
 
