@@ -1,0 +1,39 @@
+{
+  "committee": [
+    {
+      "role": "Chairman",
+      "name": "Daan Schipper",
+      "img": "chairman"
+    },
+    {
+      "role": "Secretary",
+      "name": "Felix van Doorn",
+      "img": "secretary"
+    },
+    {
+			"role": "Treasurer",
+			"name": "Saskia Vertregt",
+      "img": "treasurer"
+		},
+    {
+			"role": "Logistics Affairs",
+			"name": "Lianne Bruijns",
+      "img": "logistics"
+		},
+    {
+			"role": "Promo Affairs",
+			"name": "Joep Bom",
+      "img": "promo"
+		},
+    {
+			"role": "Event Affairs",
+			"name": "Tom Harting",
+      "img": "event"
+		},
+    {
+			"role": "Qualitate Qua",
+			"name": "Marjolein Bouwmeester",
+      "img": "qq"
+		}
+  ]
+}

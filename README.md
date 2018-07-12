@@ -10,7 +10,7 @@ He proposed a solution where we have a core development team that implementes cu
 
 ## Changed
 This is a very good analysis and there is a lot that can be improved in the committee websites. But one problem that we found with the solution that Tim suggested was that most committee members are not able to use those somewhat complex modules.  
-We want to have a simple `index.html`, `style.css` and `script.js` solution which is generic for every committee.
+It needs to be generic for every committee.
 
 ## Goal
 Summarized: 
@@ -28,9 +28,10 @@ So what should we provide?
 - Different html files that all load a different page
 - General style of displaying the committee.
 
-### Bootstrap
-We are now working on a version that **uses bootstrap**. This is debatable since not everyone understands boostrap but it is very easy to use.
+### Custom Elements
+We are now working on a version that uses custom Elements. This is in line with what [Tim van der Lippe](https://github.com/TimvdLippe). One problem that we need to solve here is the customizability.
 
 ### Other options
-- We could setup an repo for every committee inside the [WISVCH organisation](https://github.com/WISVCH)  (Then all sites can be edited by members of CH that may have more knowledge then the committee member from the committee itself. )
+- We could setup an repo for every committee inside the [WISVCH organisation](https://github.com/WISVCH)  
+(Then all sites can be edited by members of CH that may have more knowledge then the committee member from the committee itself. )
 

@@ -1,0 +1,16 @@
+{
+  "pages": [
+    {
+      "name": "home",
+      "href": "index.html"
+    },
+    {
+      "name": "program",
+      "href": "program.html"
+    },
+    {
+      "name": "committee",
+      "href": "committee.html"
+    }
+  ]
+}
