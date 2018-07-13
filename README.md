@@ -1,5 +1,12 @@
 # Committee-template
 
+---
+
+### Current status  
+**I tried updating the modules but was not able to import polymer correctly. I'll be on holyday until 4th of august so in the meantime other persons will hopefully look at this and could help me out. I would love to hear everyones opinion on this problem and hopefully we can come to a proper solution with eachother.**
+
+---
+
 ## Problem
 - takes too much time to build one every year
 - Style varies over the different sites.
