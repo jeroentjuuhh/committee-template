@@ -1,4 +1,9 @@
+import { PolymerElement } from '../../@polymer/polymer/polymer-element.js';
+import { html } from '../../@polymer/polymer/lib/utils/html-tag.js';
+
 const $_documentContainer = document.createElement('template');
+
+
 
 $_documentContainer.innerHTML = `<template id="wisvch-navigation">
   <style>

@@ -3,7 +3,7 @@
   "description": "Committee element for WISVCH",
   "main": "wisvch-committee.html",
   "dependencies": {
-    "polymer": "Polymer/polymer#^1.4.0",
+    "@polymer/polymer": "^3.0.0-pre.1",
     "iron-elements": "PolymerElements/iron-elements#^1.0.10"
   },
   "devDependencies": {

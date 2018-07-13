@@ -1,3 +1,6 @@
+import { PolymerElement } from '../../@polymer/polymer/polymer-element.js';
+import { html } from '../../@polymer/polymer/lib/utils/html-tag.js';
+
 const $_documentContainer = document.createElement('template');
 
 $_documentContainer.innerHTML = `<template id="wisvch-committee">
@@ -68,7 +71,7 @@ document.head.appendChild($_documentContainer.content);
 
         if (member.img) {
           const img = document.createElement('img');
-          img.src = `${docLocation}/icons/${member.img}.svg`;
+          img.src = `${docLocation}/resources/icons/${member.img}.svg`;
           div.appendChild(img);
         }
 
