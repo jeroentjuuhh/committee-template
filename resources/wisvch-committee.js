@@ -1,4 +1,6 @@
-<template id="wisvch-committee">
+const $_documentContainer = document.createElement('template');
+
+$_documentContainer.innerHTML = `<template id="wisvch-committee">
   <style>
     :host {
       display: block;
@@ -34,12 +36,12 @@
   <div id="container">
 
   </div>
-</template>
+</template>`;
 
-<script>
+document.head.appendChild($_documentContainer.content);
 (function(document, customElements, fetch) {
   // Points to this document which has the template
-  const doc = document.currentScript.ownerDocument;
+  const doc = window.document;
   const docLocation = doc.baseURI.substring(0, doc.baseURI.lastIndexOf('/'));
 
   class WisvchCommittee extends HTMLElement {
@@ -85,4 +87,3 @@
 
   customElements.define('wisvch-committee', WisvchCommittee);
 })(document, window.customElements, window.fetch);
-</script>
